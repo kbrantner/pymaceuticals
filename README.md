@@ -8,17 +8,23 @@ Capomulin is .84. Further results can be seen in the visuals section.
 
 #Visuals	
 
-Distribution of Female versus Male Mice Distribution of Female versus Male Mice
+Total NUmber of Timpoints Recorded for Each Drug Regimen
+![image](https://github.com/kbrantner/pymaceuticals/assets/117327499/7bda0b3b-47fb-4046-81aa-65f18ac83334)
+
 
 Distribution of Female versus Male Mice Pie Chart
+![image](https://github.com/kbrantner/pymaceuticals/assets/117327499/5f957098-4b96-440b-9e5d-0cf67ed2c263)
+
  
 Tumor Size per Drug Regimen Box Plot
+![image](https://github.com/kbrantner/pymaceuticals/assets/117327499/98ff714f-50b3-46a9-9eba-32fa9e16d4dc)
+
  
 Tumor Volume Over Time for Mouse b128 (Treated with Capomulin) Line Graph
-
-Mean Tumor Volume vs Weight
+![image](https://github.com/kbrantner/pymaceuticals/assets/117327499/09db41fd-e1bd-4320-833e-0a02a3d55171)
  
-Mean Tumor Volume vs Weight Scatter Plot with  Linear Regression
+Mean Tumor Volume vs Weight Scatter Plot with Linear Regression
+![image](https://github.com/kbrantner/pymaceuticals/assets/117327499/fbcc4349-4300-4a28-a0e7-8c27cf3022d2)
 
 
 #Installation
